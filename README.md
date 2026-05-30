@@ -1,16 +1,12 @@
-## Hi there 👋
+# 👋 Welcome to the backend. Name's Minty.
 
-<!--
-**unjaki/unjaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Most of the heavy lifting happens behind closed doors in private repositories. 
+```txt
+[SYSTEM STATUS]
+// 🎭 **Currently:** Growing my experience through making fun projects!
+// 🤖 **Always:** Rethinking my life choices.
+// 🪐 **Vibe:** Driven by random thoughts that pop up in my head, I now create stuff for my gang.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+*If you stumbled here from the explore feed, welcome to the test lab.*
+```
