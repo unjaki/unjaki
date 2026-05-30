@@ -8,5 +8,5 @@ Most of the heavy lifting happens behind closed doors in private repositories.
 // 🪐 Vibe: Driven by random thoughts that pop up in my head, I now create stuff for my gang.
 
 ---
-*If you stumbled here from the explore feed, welcome to the test lab.*
+------If you stumbled here from the explore feed, welcome to the test lab.-----
 ```
